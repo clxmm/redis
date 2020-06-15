@@ -10,6 +10,8 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>jedis</module>
+        <module>lettuce</module>
+        <module>distributed_lock</module>
     </modules>
 
 
