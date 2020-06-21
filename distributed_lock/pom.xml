@@ -26,6 +26,12 @@
             <version>2.11.0</version>
         </dependency>
 
+
+        <dependency>
+            <groupId>com.redislabs</groupId>
+            <artifactId>jrebloom</artifactId>
+            <version>1.2.0</version>
+        </dependency>
     </dependencies>
 
 </project>
